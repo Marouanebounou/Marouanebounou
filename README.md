@@ -1,4 +1,4 @@
-# marouane bounou
+# Marouane Bounou
 
 full-stack dev based in beni mellal, morocco.  
 i build things that solve real problems — not portfolios, not demo apps.
