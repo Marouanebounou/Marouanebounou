@@ -1,6 +1,6 @@
 # Marouane Bounou
 
-full-stack dev based in beni mellal, morocco.  
+full-stack dev based in Casablanca, morocco.  
 i build things that solve real problems — not portfolios, not demo apps.
 
 currently: **licence pro génie informatique @ high tech rabat**  
