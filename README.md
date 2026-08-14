@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Safqa**
+  I’m currently working on **Safqa.ma**
  
- 🌱 I’m currently learning **Devops, NestJs, AWS**
+  I’m currently learning **Devops, NestJs, AWS**
 
-💬 Ask me about **Node.js, React, Spring Boot... or anything [here](https://github.com/marouanebounou/marouanebounou/issues)**
+ Ask me about **Node.js, React, Spring Boot... or anything [here](https://github.com/marouanebounou/marouanebounou/issues)**
 
  </div>
  
@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,githubactions,redis,postman" />
@@ -43,7 +43,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/marouanebounou/marouanebounou/output/github-contribution-grid-snake.svg" />
   
